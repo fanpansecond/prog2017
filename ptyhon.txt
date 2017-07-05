@@ -1,0 +1,18 @@
+import turtle
+turtle = turtle.Turtle()
+turtle.position()
+
+for x in range(4):
+  t.forward(200)
+  t.left(90)
+   
+t.home()
+t.clear()
+for x in range(4):
+  t.up()
+  t.forward(50)
+  t.down()
+  for i in range(4):
+    t.forward(200)
+    t.left(90)
+  t.left(-90) 
